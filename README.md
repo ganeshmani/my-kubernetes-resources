@@ -1,5 +1,6 @@
 ### My Resource Collection to Learn Kubernetes
 
+![Banner]('./banner.png')
 This Repository contains all the article and video tutorials to learn kubernetes from beginner to advanced.
 
 [Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners - Article](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/)
