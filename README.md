@@ -1,7 +1,6 @@
-<p style="text-align: center;"> My Resource Collection to Learn Kubernetes </p>
+### My Resource Collection to Learn Kubernetes
 
 ![Banner](./banner.png)
-
 
 This Repository contains all the article and video tutorials to learn kubernetes from beginner to advanced.
 
