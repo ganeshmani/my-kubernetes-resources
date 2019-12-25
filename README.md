@@ -1,4 +1,4 @@
-### My Resource Collection to Learn Kubernetes {align=center}
+<p style="text-align: center;"> My Resource Collection to Learn Kubernetes </p>
 
 ![Banner](./banner.png)
 
