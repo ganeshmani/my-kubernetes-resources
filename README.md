@@ -18,3 +18,4 @@ This Repository contains all the article and video tutorials to learn kubernetes
 
 [Docker vs Kubernetes vs Docker Swarm - Video](https://www.youtube.com/watch?v=9_s3h_GVzZc)
 
+[Service - Kubernetes Guide with Examples - Article](https://matthewpalmer.net/kubernetes-app-developer/articles/service-kubernetes-example-tutorial.html)
